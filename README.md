@@ -42,4 +42,3 @@ The objective is to demonstrate how educational data can be used to support earl
 - Machine Learning
 - Model Evaluation
 - Educational Data Analytics
-s. 
